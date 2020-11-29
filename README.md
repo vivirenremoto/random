@@ -10,6 +10,9 @@
 
 - construir un producto mínimo viable lo antes posible
 
+- movimiento indie hacker como producthunt
+
+
 **no me interesa**
 
 - webs de afiliados que sus ingresos dependan demasaido de google
